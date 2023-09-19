@@ -2,7 +2,7 @@
  *
  * Created by: Mr. Coxall
  * Created on: Sep 2020
- * This program ...
+ * This program does basic math.
 */
 
 basic.showString('Hello, World!')
